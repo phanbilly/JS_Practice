@@ -1,0 +1,16 @@
+.main-container {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.sub-container-1 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+
